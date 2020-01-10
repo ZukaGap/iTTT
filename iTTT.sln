@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iTTT", "iTTT.vcxproj", "{77CD864A-1277-4749-8924-60374AAC6C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CD864A-1277-4749-8924-60374AAC6C8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{77CD864A-1277-4749-8924-60374AAC6C8B}.Debug|x86.Build.0 = Debug|Win32
+		{77CD864A-1277-4749-8924-60374AAC6C8B}.Release|x86.ActiveCfg = Release|Win32
+		{77CD864A-1277-4749-8924-60374AAC6C8B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74260CA4-A6BF-40FC-A19E-E868EC630E98}
+	EndGlobalSection
+EndGlobal
